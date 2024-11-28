@@ -1,0 +1,5 @@
+bitarray
+nbconvert
+requests
+dill
+cvxopt
